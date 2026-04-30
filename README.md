@@ -1,3 +1,4 @@
+Felipe Castellanos/Samuel Barbosa
 ## 📊 Cuadro comparativo: Make vs CMake
 
 | Aspecto | Make | CMake |
